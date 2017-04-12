@@ -1,0 +1,18 @@
+ table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: separate;
+  border: 1px solid purple;
+}
+
+
+ td {
+    display: table-cell;
+    vertical-align: inherit;
+  padding: 20px;border: 1px solid purple;
+  background-color: #F5DEB3;color:red;
+  }
+
+h1{text-align: center;background-color: #7FFF00;text-decoration-color:  white;}
+
+
